@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/database/PenguAccessDBCommunicator.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/MainScreen.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengusecurity/encrypt/PenguKeyPair.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/Custom/MessageSpeechBubble.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/messenger/PenguMessage.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/messenger/APICommunicator.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/database/MessageDBCommunicator.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/database/DBSetup.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/messenger/PenguRESTClient.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengusecurity/encrypt/PenguAESEncryption.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/RegistrationScreen.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/Custom/MessageViewBox.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/messenger/PenguMessengerClient.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/messenger/PenguMessengerRESTClient.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/messenger/PenguMessenger.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/LoginScreen.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengusecurity/encrypt/PenguEncryptedMessage.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/pengu/database/ContactsDBCommunicator.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/package-info.java</file>
+            <file>file:/C:/Users/hkrmn/Desktop/IT%20PAT%20DESKTOP/Pengu%20Messenger/src/UI/Custom/ActiveChatsSelection.java</file>
+        </group>
+    </open-files>
+</project-private>

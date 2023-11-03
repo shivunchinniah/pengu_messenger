@@ -1,0 +1,2 @@
+Use the installer to install. The installer creates a folder in C:\Users\<user>\AppData\Roaming\Pengu Messenger
+this is essential for the program to work
